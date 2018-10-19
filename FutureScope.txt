@@ -1,0 +1,3 @@
+Can we predict patterns in crime by seeing what people are tweeting about (LA Crime Dataset + Twitter Data)
+Is there a sequential nature in certain crimes?
+Predictive Policing - Space & Time
